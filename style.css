@@ -1,0 +1,12 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+a:link, a:visited {
+    color: #1e90ff;
+}
+.cool {
+    color: #1e90ff;
+    font-weight: bold;
+}
